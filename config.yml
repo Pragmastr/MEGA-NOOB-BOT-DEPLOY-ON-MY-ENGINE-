@@ -9,7 +9,7 @@ engines:
     move_overhead_multiplier: 22.5
     uci_options:
       Threads: 4
-      Hash: 4100
+      Hash: 1024 # сменить на 4100 для моего движка и на 1024 для nokisy
       Move Overhead: 100
     limits:
       # time: 20.0
