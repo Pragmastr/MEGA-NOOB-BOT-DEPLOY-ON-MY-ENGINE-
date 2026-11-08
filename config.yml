@@ -179,7 +179,7 @@ challenge:
     variants:
       - standard
       - crazyhouse
-      - chess960
+      # - chess960 #поставить для стокфиша
       - horde
       - antichess
       - atomic
@@ -202,7 +202,7 @@ challenge:
       - standard
       - horde
       - crazyhouse
-      - chess960
+      # - chess960 #поставить для стокфиша
       - antichess
       - atomic
       - kingOfTheHill
